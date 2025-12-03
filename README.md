@@ -1,0 +1,2 @@
+# scoreboard-privacy
+privacy pillory
